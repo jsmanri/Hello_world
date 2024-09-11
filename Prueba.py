@@ -10,8 +10,3 @@ print("Yashido")
 print(type("Hello")) # Esta funcion dice en consola los tipos de datos que son
 print(type(4))
 print(type(5.5))
-"""
-Fue
-el
-Yashido  
-"""
