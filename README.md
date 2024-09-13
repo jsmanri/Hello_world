@@ -3,4 +3,4 @@ Repository test
 
  > Este es un repositorio de prueba     
 
-Ajuste de separacion rama main
+Ajuste generacion de conflicto repositorio remoto
